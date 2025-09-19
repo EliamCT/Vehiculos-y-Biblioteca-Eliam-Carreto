@@ -26,3 +26,4 @@ C:\Users\eliam\Desktop\EJERCICIOS\miproyecto\Vehiculos\obj\Debug\net9.0\refint\M
 C:\Users\eliam\Desktop\EJERCICIOS\miproyecto\Vehiculos\obj\Debug\net9.0\MiProyecto.pdb
 C:\Users\eliam\Desktop\EJERCICIOS\miproyecto\Vehiculos\obj\Debug\net9.0\MiProyecto.genruntimeconfig.cache
 C:\Users\eliam\Desktop\EJERCICIOS\miproyecto\Vehiculos\obj\Debug\net9.0\ref\MiProyecto.dll
+C:\Users\eliam\Desktop\EJERCICIOS\MiProyecto\Vehiculos\obj\Debug\net9.0\MiProyecto.sourcelink.json

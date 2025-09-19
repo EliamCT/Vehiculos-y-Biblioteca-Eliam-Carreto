@@ -12,3 +12,4 @@ C:\Users\eliam\Desktop\EJERCICIOS\miproyecto\Biblioteca\obj\Debug\net9.0\refint\
 C:\Users\eliam\Desktop\EJERCICIOS\miproyecto\Biblioteca\obj\Debug\net9.0\Biblioteca.pdb
 C:\Users\eliam\Desktop\EJERCICIOS\miproyecto\Biblioteca\obj\Debug\net9.0\Biblioteca.genruntimeconfig.cache
 C:\Users\eliam\Desktop\EJERCICIOS\miproyecto\Biblioteca\obj\Debug\net9.0\ref\Biblioteca.dll
+C:\Users\eliam\Desktop\EJERCICIOS\MiProyecto\Biblioteca\obj\Debug\net9.0\Biblioteca.sourcelink.json

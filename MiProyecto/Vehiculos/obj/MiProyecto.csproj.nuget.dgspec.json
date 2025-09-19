@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\miproyecto\\Vehiculos\\MiProyecto.csproj": {}
+    "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\MiProyecto\\Vehiculos\\MiProyecto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\miproyecto\\Vehiculos\\MiProyecto.csproj": {
+    "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\MiProyecto\\Vehiculos\\MiProyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\miproyecto\\Vehiculos\\MiProyecto.csproj",
+        "projectUniqueName": "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\MiProyecto\\Vehiculos\\MiProyecto.csproj",
         "projectName": "MiProyecto",
-        "projectPath": "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\miproyecto\\Vehiculos\\MiProyecto.csproj",
+        "projectPath": "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\MiProyecto\\Vehiculos\\MiProyecto.csproj",
         "packagesPath": "C:\\Users\\eliam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\miproyecto\\Vehiculos\\obj\\",
+        "outputPath": "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\MiProyecto\\Vehiculos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

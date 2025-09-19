@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\miproyecto\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\MiProyecto\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\miproyecto\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\MiProyecto\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\miproyecto\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\MiProyecto\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\miproyecto\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\MiProyecto\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\eliam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\miproyecto\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\eliam\\Desktop\\EJERCICIOS\\MiProyecto\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
