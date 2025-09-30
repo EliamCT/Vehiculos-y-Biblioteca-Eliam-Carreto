@@ -1,0 +1,13 @@
+# Ignorar carpetas de compilación .NET
+bin/
+obj/
+.vs/
+.vscode/
+
+# Archivos temporales
+*.user
+*.suo
+*.pdb
+*.dll
+*.exe
+*.cache
